@@ -1,0 +1,16 @@
+# Ignores
+.sass-cache
+*.css.map
+.DS_Store
+.idea
+
+# Dependency directory
+node_modules
+
+# We track our theme, uploads and that's it.
+public/wp-content/languages
+public/wp-content/upgrade
+public/wp-admin/
+public/wp-includes/
+public/wp-content/plugins
+
